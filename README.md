@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭Hey 🖤, I'm Vamparise, Game Designer from Poland 🤟<br>👯 Currently training in Unreal Engine 5 🎮<br>🤝 I am an inspiring person to create your own indie team ✌<br>💬 I love Soulslike games and psychology, I often use it in games 🎭
+# 💫 Hey 🖤, I'm Vamparise, About Me:
+🔭I'm Game Designer from Poland 🤟<br>👯 Currently training in Unreal Engine 5 🎮<br>🤝 I am an inspiring person to create your own indie team ✌<br>💬 I love Soulslike games and psychology, I often use it in games 🎭
 
 
 ## 🌐 Socials:
